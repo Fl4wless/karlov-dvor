@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/karlov-dvor/static/css/main.28c17f85.chunk.css",
+    "main.js": "/karlov-dvor/static/js/main.626f77f8.chunk.js",
+    "main.js.map": "/karlov-dvor/static/js/main.626f77f8.chunk.js.map",
+    "runtime-main.js": "/karlov-dvor/static/js/runtime-main.ac4708e4.js",
+    "runtime-main.js.map": "/karlov-dvor/static/js/runtime-main.ac4708e4.js.map",
+    "static/js/2.62991635.chunk.js": "/karlov-dvor/static/js/2.62991635.chunk.js",
+    "static/js/2.62991635.chunk.js.map": "/karlov-dvor/static/js/2.62991635.chunk.js.map",
+    "index.html": "/karlov-dvor/index.html",
+    "static/css/main.28c17f85.chunk.css.map": "/karlov-dvor/static/css/main.28c17f85.chunk.css.map",
+    "static/js/2.62991635.chunk.js.LICENSE.txt": "/karlov-dvor/static/js/2.62991635.chunk.js.LICENSE.txt",
+    "static/media/brunch.001ea2d9.jpeg": "/karlov-dvor/static/media/brunch.001ea2d9.jpeg",
+    "static/media/dezert.e0b9cce1.jpeg": "/karlov-dvor/static/media/dezert.e0b9cce1.jpeg",
+    "static/media/hero2.3bad6f5d.jpg": "/karlov-dvor/static/media/hero2.3bad6f5d.jpg",
+    "static/media/hlavne_jedlo.848c0dd9.jpeg": "/karlov-dvor/static/media/hlavne_jedlo.848c0dd9.jpeg",
+    "static/media/img1.a861c3fa.jpeg": "/karlov-dvor/static/media/img1.a861c3fa.jpeg",
+    "static/media/img2.6739f86b.jpeg": "/karlov-dvor/static/media/img2.6739f86b.jpeg",
+    "static/media/img3.001ea2d9.jpeg": "/karlov-dvor/static/media/img3.001ea2d9.jpeg",
+    "static/media/img7.a2bb8711.jpg": "/karlov-dvor/static/media/img7.a2bb8711.jpg",
+    "static/media/karlovdvorIcon.8cb38878.png": "/karlov-dvor/static/media/karlovdvorIcon.8cb38878.png",
+    "static/media/masterchefs.a2bb8711.jpg": "/karlov-dvor/static/media/masterchefs.a2bb8711.jpg",
+    "static/media/polievka.8a383aa6.jpeg": "/karlov-dvor/static/media/polievka.8a383aa6.jpeg",
+    "static/media/pre_nevestu.ead196cc.jpg": "/karlov-dvor/static/media/pre_nevestu.ead196cc.jpg",
+    "static/media/pre_zenicha.12f6ec91.jpeg": "/karlov-dvor/static/media/pre_zenicha.12f6ec91.jpeg",
+    "static/media/predjedlo.12f6ec91.jpeg": "/karlov-dvor/static/media/predjedlo.12f6ec91.jpeg",
+    "static/media/prostredie.c0e3a850.jpeg": "/karlov-dvor/static/media/prostredie.c0e3a850.jpeg",
+    "static/media/samoob1.cf9e40f1.jpeg": "/karlov-dvor/static/media/samoob1.cf9e40f1.jpeg",
+    "static/media/samoob2.e0d2f36a.jpeg": "/karlov-dvor/static/media/samoob2.e0d2f36a.jpeg",
+    "static/media/samoob3.9e7e5c3b.jpeg": "/karlov-dvor/static/media/samoob3.9e7e5c3b.jpeg",
+    "static/media/samoob4.86eefda3.jpeg": "/karlov-dvor/static/media/samoob4.86eefda3.jpeg",
+    "static/media/terasa.0cf8fbef.jpeg": "/karlov-dvor/static/media/terasa.0cf8fbef.jpeg",
+    "static/media/ubytovanie.0cf8fbef.jpeg": "/karlov-dvor/static/media/ubytovanie.0cf8fbef.jpeg",
+    "static/media/weddingCrop.35c16258.jpg": "/karlov-dvor/static/media/weddingCrop.35c16258.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac4708e4.js",
+    "static/js/2.62991635.chunk.js",
+    "static/css/main.28c17f85.chunk.css",
+    "static/js/main.626f77f8.chunk.js"
+  ]
+}
